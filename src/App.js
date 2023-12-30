@@ -59,7 +59,7 @@ function App() {
 
   const lastInt =
     (lastMonth - firstMonth) * 30 +
-    (lastDay - firstDay) +
+    (lastDay - firstDay)+
     (lastYear - firstYear) * 300;
 
 
@@ -94,7 +94,7 @@ return (
         return (
           <Block
             styles={{ left: position + 10 }}
-            date={date.split("/")[0] == "20" || date.split("/")[0] == "25" || date.split("/")[0] == "31" ? "∞" : date}
+            date={date.split("/")[0] === "20" || date.split("/")[0] === "25" || date.split("/")[0] === "32" ? "∞" : date}
             id={index}
             setCurrId={setCurrId}
             currId ={currId}

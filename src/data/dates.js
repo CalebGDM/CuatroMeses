@@ -1,78 +1,46 @@
 export default [
     {
         id: 0,
-        date: "02/02/2022",
-        mensaje: "Cuando nos conocimos"
+        date: "14/08/2023",
+        mensaje: "Nos conocemos. En clase de programación quedo flechado."
     },
     {
-        id: 0,
-        date: "8/04/2022",
-        mensaje: "Dia del rally... t acuerdas q nos quedamos a jugar la papa caliente q x q nos iban a expulsar si nos ibamos 😂 🥔"
+  
+        date: "15/08/2023",
+        mensaje: "Hablamos por primera vez después de dibujo."
     },
     {
-        id: 0,
-        date: "15/05/2022",
-        mensaje: "T invite una rebanada de pastel x q tu me presumiste uno q t abian comprado en el globo"
+      
+        date: "22/08/2023",
+        mensaje: "Fuimos a la biblioteca de ciencias y conocí a tu hermana."
     },
     {
-        id: 0,
-        date: "16/05/2022",
-        mensaje: "Fuimos x el pastel y el baguete... Comenzamos con esto ❤️"
+        date: "23/08/2023",
+        mensaje: 'Me mandaste mensaje por primera vez contandome cuando Salma se iba a agarrar a chongazos con una tipa.'
     },
     {
-        id: 0,
-        date: "24/05/2022",
-        mensaje: "El día de las pijamas...Ademas de q estubo chido nos tomamos mi foto favorita"
+        date: "24/08/2023",
+        mensaje: 'Te regalé tu flor en el día del lector.'
     },
     {
-        id: 0,
-        date: "26/05/2022",
-        mensaje: "Fuimos a ver la de carrie... Ese dia me regañaron x llegar tarde XD"
+        date: "31/08/2023",
+        mensaje: 'El mejor día de mi vida. Nuestro primer beso y cuando te declaré mi amor.'
     },
     {
-        id: 0,
-        date: "27/05/2022",
-        mensaje: "Dia de vaqueros... y nuestro primer beso ❤️🥰😘"
+        date: "01/09/2023",
+        mensaje: 'Me dijiste que sí querías ser mi novia. Empiza nuestro gran viaje.'
     },
     {
-        id: 0,
-        date: "30/05/2022",
-        mensaje: "Despues de mucho tiempo me mandaste la foto q nos tomamos el dia de las pijamas 🙈"
+        date: "03/09/2023",
+        mensaje: 'Mi cumpleaños... Me regalaste la pulcera y mi mamá se enteró de lo nuestro.'
     },
     {
-        id: 0,
-        date: "02/06/2022",
-        mensaje: `Último dia de clases... Estubo muy chido 👉👈`
+        date: "16/09/2023",
+        mensaje: 'Nuestra primera cita.'
     },
     {
-        id: 0,
-        date: "06/06/2022",
-        mensaje: "Hice el test de Harry Potter... por cierto estubo chido o debo decir mágico? XD"
+        date: "01/10/2023",
+        mensaje: 'Me dijiste que sí querías ser mi novia. Empiza nuestro gran viaje.'
     },
-    {
-        id: 0,
-        date: "07/06/2022",
-        mensaje: "Me dijiste algo según tú muy cursi y q nunca va a volver a suceder...Y nunca se me va olvidar."
-    },
-    {
-        id: 0,
-        date: "16/06/2022",
-        mensaje: "Nuestro primer mes 🥰❤️😘👉👈"
-    },
-    {
-        id: 0,
-        date: "16/07/2022",
-        mensaje: "No es como que hallamos hecho mucho este ultimo mes... pero la verdad estoy muy feliz de ya tener dos meses contigo ❤️🥰😘... T amo❤️"
-    },
-    {
-        id: 0,
-        date: "20/07/2022",
-        mensaje: "La verdad cada momento que estoy contigo virtual o presencial es muy especial para mi y no puedo decir que uno es mi favorito.. y los que puse aqui son los q considero que talvez tambien para ti sean significativos"
-    },
-    {
-        id: 0,
-        date: "25/07/2022",
-        mensaje: "Te extraño mucho 😔"
-    }
- 
+    
 ]
