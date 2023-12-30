@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NuestrosMomentos/static/css/main.0991e108.css",
+    "main.js": "/NuestrosMomentos/static/js/main.f7e7bbce.js",
+    "index.html": "/NuestrosMomentos/index.html",
+    "main.0991e108.css.map": "/NuestrosMomentos/static/css/main.0991e108.css.map",
+    "main.f7e7bbce.js.map": "/NuestrosMomentos/static/js/main.f7e7bbce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0991e108.css",
+    "static/js/main.f7e7bbce.js"
+  ]
+}
