@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CuatroMeses/static/css/main.0991e108.css",
-    "main.js": "/CuatroMeses/static/js/main.f7e7bbce.js",
+    "main.css": "/CuatroMeses/static/css/main.bbfa7bf8.css",
+    "main.js": "/CuatroMeses/static/js/main.539b28a5.js",
     "index.html": "/CuatroMeses/index.html",
-    "main.0991e108.css.map": "/CuatroMeses/static/css/main.0991e108.css.map",
-    "main.f7e7bbce.js.map": "/CuatroMeses/static/js/main.f7e7bbce.js.map"
+    "main.bbfa7bf8.css.map": "/CuatroMeses/static/css/main.bbfa7bf8.css.map",
+    "main.539b28a5.js.map": "/CuatroMeses/static/js/main.539b28a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.0991e108.css",
-    "static/js/main.f7e7bbce.js"
+    "static/css/main.bbfa7bf8.css",
+    "static/js/main.539b28a5.js"
   ]
 }
